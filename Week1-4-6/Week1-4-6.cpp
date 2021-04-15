@@ -8,7 +8,6 @@ int main()
 {
     int n;
     vector<int> res;
-    vector<int> t;
     cin >> n;
     while(n != 0)
     {
